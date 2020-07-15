@@ -1,0 +1,45 @@
+### Foundation Updates
+
+---
+
+The Zel Foundation will transition to a fiscal year calendar with a period of July to June. The reasons behind this move are:
+
+-‚Crypto winter has hit the whole space hard. The Zel Team and project development up to this point has been made possible with distributions from the
+ Foundation to the individuals continually working on the project.
+- Despite under-performing markets, Zel has met almost all of the roadmap milestones, some ahead, some behind schedule, but development overall has 
+been very strong for the whole project.
+- The value of the Zel Foundation fund holdings has required the team to use more ZEL than planned to get to this point in the project. 
+To continue the rapid development of the project, more ZEL is needed to distribute to team members, outside developers, and payments for 
+required services (especially for a concerted marketing push this year).
+- Funds will be used directly to pay for further development of ZelNodes including more advanced benchmarking, marketing/PR/tutorial videos and 
+graphics, any future payments necessary for listing fees, legal requirements, and the necessary funds to pay for development of the main roadmap 
+items such as ZelEx and ZelDev.
+
+```
+In Summary: The Zel Foundation will move Year 2 allotment of ZEL from the Locked account to the Operational account in the coming weeks, which will span the period of July 2019 to June 2020, to fuel the rapid development needed to advance the project towards its goals.
+```
+
+<b>More detailed information will be discussed during the upcoming live meeting, March 16th or 17th</b>
+
+### Transparency Report
+
+---
+
+Below is an itemized list of Operational account spending to-date (12Mar2019) for Q4 2018 to Q1 2019:
+
+- OTC/Exchange sales to BTC to pay for Zel Ecosystem developments (ZelNodes, marketing, etc.) - 337,125 ZEL
+- Team distribution to core, marketing/PR, ZelNode dashboard, ZelNode scripting, and community mod members - 100,000 ZEL
+- Advisor payments including marketing, Legal, and ZELmate/ZECmate development - 50,000 ZEL
+- Community Pool set up and maintenance by Pickaxe.pro - 10,375 ZEL
+- One-time legal fee to establish documentation for working relationships between Zel/ZelCore and 3rd party partners/affiliates - 150,000 ZEL
+- Infrastructure payments required for ZelNodes testnet (VPS/server and daemon testing) - 20,000 ZEL
+- Grand Total: ~667,500 ZEL
+
+The Operational account started the year with some spillover from 2018, so Q1 2019 started with ~ 805,000 ZelCash. 
+As of today (12Mar2019), there is 137,293 ZEL in the Operational account.
+
+```
+Frankly, ~137,000 ZEL will not fund the rest of the year of required development to keep up the pace that the Zel Community has seen previously. 
+To combat crypto winter and continue Zel development, Year 2 allotment of 790,000 ZEL shall be unlocked to the Operational account soon, 
+and will be utilized until June 2020 to fund the requisite projects to keep on schedule with the roadmap milestones.
+```

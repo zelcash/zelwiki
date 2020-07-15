@@ -1,0 +1,7 @@
+![zelslides](/img/summary_page.png)
+![zelslides](/img/community_numbers.png)
+![zelslides](/img/zelslides/Slide_1_What_is_Zel.png)
+![zelslides](/img/zelslides/Slide_2_zelcore.png)
+![zelslides](/img/zelslides/Slide_3_Premium_ZEL.png)
+![zelslides](/img/zelslides/Slide_4_ZelID_Nodes.png)
+![zelslides](/img/zelslides/Slide_5_Exchanges_ZEL.png)

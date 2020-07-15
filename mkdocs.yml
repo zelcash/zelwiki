@@ -1,0 +1,116 @@
+site_name: Zel Ecosystem
+dev_addr: 193.188.15.163:8888
+nav:
+    - 'Home':
+        - 'index.md'
+    - 'Zel':
+        - 'Zel Currency Overview': 'zel.md'
+        - 'Zel Team': 'zel_team.md'
+        - 'Zel Crypto Conference': 'zel_con1.md'
+        - 'Zel Exchanges': 'zel_exchanges.md'
+        - 'Roadmaps': 'zel_roadmaps.md'
+        - 'Social Media Links': 'zel_social.md'
+        - 'Installing Daemon': 'zel_daemoninstall.md'
+    - 'ZelCore':
+        - 'ZelCore Overview' : 'zelcore.md'
+        - 'ZelCore Supported Assets': 'zelcore_assets.md'
+        - 'ZelCore Features' : 'zelcore_features.md'
+        - 'ZelCore+' : 'zelcore_+.md'
+    - 'ZelNodes Network':
+        - 'Zel Computational Network Overview': 'zelnodes.md'
+        - 'Set Up ZelNode | RECOMMENDED': 'zelnode_setupfull.md'
+        - 'Set Up ZelNode | Alternate': 'zelnode_setupscript.md'
+        - 'Set up ZelNode | Manually': 'zelnode_setupmanual.md'
+    - 'Flux OSS':
+        - 'Flux Overview': 'flux.md'
+        - 'Development': 'flux_dev.md'
+        - 'Flux CLI Commands':
+            - 'FluxBench Commands': 'flux_benchcommands.md'
+    - 'ZelID':
+        - 'ZelID Overview': 'zelid.md'
+        - 'ZelID Modules':
+            - 'ZelID Account System': 'zelid_accounts.md'
+            - 'd2FA Security Layer': 'zelid_d2fa.md'
+            - 'Easy Login': 'zelid_easylogin.md'
+            - 'Message Signing': 'zelid_signing.md'
+    - 'ZelLabs':
+        - 'ZelLabs Overview': 'zellabs.md'
+        - 'ZelLabs Incubation':
+            - 'Index': 'zellabs_partners.md'
+            - 'CoinRequest': 'zellabs_coinrequest.md'
+            - 'Xrosp': 'zellabs_xrosp.md'
+            - 'Ravencoin Asset Layer': 'zellabs_rvn.md'
+            - 'NEO Network': 'zellabs_neo.md'
+            - 'ONT Network': 'zellabs_ont.md'
+    - 'Zel Foundation':
+        - 'Zel Foundation Overview': 'zelfoundation.md'
+        - 'Transparency Reports':
+            - 'FY2019 Q2 & Q3': 'zelfoundation_treport2019Q2Q3.md'
+            - 'FY2019 Q1': 'zelfoundation_treport2019Q1.md'
+theme:
+    name: material
+    language: en
+    features:
+        -tabs
+        -instant
+    palette:
+        scheme: slate
+        primary: blue
+        accent: indigo
+    logo: /img/logo.svg
+    favicon: /img/Zel-favicon.png
+repo_name: Zelcash Github
+repo_url: https://github.com/zelcash/zelcash
+extra:
+    manifest: manifest.webmanifest
+#    disqus: forums
+google_analytics:
+    - UA-168637799-1
+    - auto
+extra:
+    social:
+        - icon: fontawesome/brands/github-alt
+          link: https://github.com/zelcash
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/zelcash
+        - icon: fontawesome/brands/twitter-square
+          link: https://twitter.com/ZelCore
+        - icon: fontawesome/brands/discord
+          link: https://discord.gg/7m3vzTr
+extra_css:
+    - stylesheets/extra.css
+#extra_javascripts:
+#    - javascripts/extra.js
+plugins:
+    - search
+    - minify:
+        minify_html: true
+#    - git-revision-date-localized:
+#        type: date
+#    - awesome-pages
+markdown_extensions:
+#    - fontawesome_markdown
+    - admonition
+    - codehilite:
+        guess_lang: false
+        linenums: true
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tabbed
+    - pymdownx.tilde
