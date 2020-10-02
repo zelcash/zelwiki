@@ -1,0 +1,7 @@
+![zeleco](/img/Zel_Eco/summary_page.png)
+![zeleco](/img/Zel_Eco/community_numbers.png)
+![zeleco](/img/Zel_Eco/What_is_Zel.png)
+![zeleco](/img/Zel_Eco/ZEL_Ecosystem.png)
+![zeleco](/img/Zel_Eco/Zelcore_Plus.png)
+![zeleco](/img/Zel_Eco/ZELID.png)
+![zeleco](/img/Zel_Eco/Zel_Exchanges.png)
