@@ -1,1 +1,1 @@
-![zelslides](/img/ZelLabs/zellabs_summary.png)
+![zellabs](/img/ZelLabs/zellabs_summary.png)

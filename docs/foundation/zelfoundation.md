@@ -1,7 +1,7 @@
 ### Community-driven
 
 :  Zel is a fair-mined, community-based POW coin striving towards building an entire ecosystem of blockchain products including a robust user platform,
-high-availability computational network, and dapp/smart contract development platform. Currently the project does not utilize any institutional
+high-availability computational network, and dapp development platform. Currently the project does not utilize any institutional
 funding, and the Zel Foundation fund was established to pursue technology advancements for Zel led by the community and other 3rd party developers.
 
 <br>

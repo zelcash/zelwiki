@@ -177,4 +177,6 @@ This installs `#!css zelcashd`, `#!css zelcash-cli`, `#!css zelcash-tx` & `#!css
 ```bash
 bash zelcash-fetch-params.sh
 ```
-Create Config File as shown in [example](https://zel.wiki/zel_daemoninstall/#create-config-file) above.
+
+!!! note
+    Create Config File as shown in the [example](#create-config-file)

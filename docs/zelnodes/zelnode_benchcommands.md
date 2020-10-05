@@ -4,18 +4,17 @@ This page describes the available CLI commands for ZelNode Benchmarking Daemon
 
 ---
 
-!!! tip
+!!! note
     These commands are available when SSH'd into your ZelNode or through your VPS's dashboard/console
 
 ---
 
-### List of Commands
-
-* getinfo
-* getstatus
-* signzelnodetransactions
-* restartnodebenchmarks
-* getbenchmarks
+!!! example "List of Commands"
+    * getinfo
+    * getstatus
+    * signzelnodetransactions
+    * restartnodebenchmarks
+    * getbenchmarks
 
 ### Command Explanations
 
@@ -25,7 +24,7 @@ This page describes the available CLI commands for ZelNode Benchmarking Daemon
 zelbench-cli getinfo
 ```
 
-!!! example
+!!! example "Example Response"
     {  
     &#8199;&#8199;"version": "1.4.2",  
     &#8199;&#8199;"rpcport": 16224  
@@ -39,7 +38,7 @@ zelbench-cli getinfo
 zelbench-cli getstatus
 ```
 
-!!! example
+!!! example "Example Response"
     {  
     &#8199;&#8199;"status": "online",  
     &#8199;&#8199;"benchmarking": "BAMF",  
@@ -74,7 +73,7 @@ zelbench-cli restartnodebenchmarks
 zelbench-cli getbenchmarks
 ```
 
-!!! example
+!!! example "Example Response"
     {  
     &#8199;&#8199;"ipaddress": "YOURIPv4",  
     &#8199;&#8199;"status": "BAMF",  

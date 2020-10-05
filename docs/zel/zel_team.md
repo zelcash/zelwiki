@@ -56,12 +56,12 @@ David discovered Zel in early 2018, becoming a community moderator
 later that year. He is now part of the Marketing team creating graphics
 for Social media marketing.<br><br>
 
-![zelteam](/img/Zel_Team/Lukas.jpg/){: align=left width=250 }
+![zelteam](/img/Zel_Team/Lukas.png/){: align=left width=250 }
 ## **Lukas Mattecka**
 ##### Community Lead & Business Development
 Currently studying economic science in the university of Basel, Swizz.
 He has been Crypto enthusiast since June 2018 and found out about Zel
 in the end of the same year. Joined the Team in late 2019 as Community
-lead and also part of Business Development.
+lead.
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/lukas-mattecka-057896192/)
 [:fontawesome-regular-envelope:](mailto:lukas@zel.network)<br><br>
