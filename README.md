@@ -1,56 +1,49 @@
 # zelwiki
 
  ---
-ZelWiki is an open-source repository of Zel-related pages for project information, tutorials, setups, etc.<br>
-It is built with [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+ZelWiki is an open-source repository of Zel-related pages for project information, tutorials, setups, etc.  
+It is built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)  
+Feel free to contribute.
 
-### Structure Tree (15July2020):
-- 'Home':
-        - 'index.md'
-    - 'Zel':
-        - 'Zel Currency Overview': 'zel.md'
-        - 'Zel Team': 'zel_team.md'
-        - 'Zel Crypto Conference': 'zel_con1.md'
-        - 'Zel Exchanges': 'zel_exchanges.md'
-        - 'Roadmaps': 'zel_roadmaps.md'
-        - 'Social Media Links': 'zel_social.md'
-        - 'Installing Daemon': 'zel_daemoninstall.md'
-    - 'ZelCore':
-        - 'ZelCore Overview' : 'zelcore.md'
-        - 'ZelCore Supported Assets': 'zelcore_assets.md'
-        - 'ZelCore Features' : 'zelcore_features.md'
-        - 'ZelCore+' : 'zelcore_+.md'
-    - 'ZelNodes Network':
-        - 'Zel Computational Network Overview': 'zelnodes.md'
-        - 'Set Up ZelNode | RECOMMENDED': 'zelnode_setupfull.md'
-        - 'Set Up ZelNode | Alternate': 'zelnode_setupscript.md'
-        - 'Set up ZelNode | Manually': 'zelnode_setupmanual.md'
-    - 'Flux OSS':
-        - 'Flux Overview': 'flux.md'
-        - 'Development': 'flux_dev.md'
-        - 'Flux CLI Commands':
-            - 'FluxBench Commands': 'flux_benchcommands.md'
-    - 'ZelID':
-        - 'ZelID Overview': 'zelid.md'
-        - 'ZelID Modules':
-            - 'ZelID Account System': 'zelid_accounts.md'
-            - 'd2FA Security Layer': 'zelid_d2fa.md'
-            - 'Easy Login': 'zelid_easylogin.md'
-            - 'Message Signing': 'zelid_signing.md'
-    - 'ZelLabs':
-        - 'ZelLabs Overview': 'zellabs.md'
-        - 'ZelLabs Incubation':
-            - 'Index': 'zellabs_partners.md'
-            - 'CoinRequest': 'zellabs_coinrequest.md'
-            - 'Xrosp': 'zellabs_xrosp.md'
-            - 'Ravencoin Asset Layer': 'zellabs_rvn.md'
-            - 'NEO Network': 'zellabs_neo.md'
-            - 'ONT Network': 'zellabs_ont.md'
-    - 'Zel Foundation':
-        - 'Zel Foundation Overview': 'zelfoundation.md'
-        - 'Transparency Reports':
-            - 'FY2019 Q2 & Q3': 'zelfoundation_treport2019Q2Q3.md'
-            - 'FY2019 Q1': 'zelfoundation_treport2019Q1.md'
+### Structure Tree (5October2020):
+```yml
+Home:
+  - index.md
+Zel:
+  - Zel Ecosystem Overview: zel/zel.md
+  - Zel Team: zel/zel_team.md
+  - Zel Crypto Conference: zel/zel_con1.md
+  - Zel Exchanges: zel/zel_exchanges.md
+  - Roadmap: zel/zel_roadmap.md
+  - Social Media Links: zel/zel_social.md
+  - Installing Daemon: zel/zel_daemoninstall.md
+ZelCore:
+  - ZelCore Overview : zelcore/zelcore.md
+  - ZelCore Supported Assets: zelcore/zelcore_assets.md
+  - ZelCore Features: zelcore/zelcore_features.md
+  - ZelCore+: zelcore/zelcore_+.md
+ZelNodes:
+  - Zel Computational Network Overview: zelnodes/zelnodes.md
+  - Set Up ZelNode | RECOMMENDED: zelnodes/zelnode_setupfull.md
+  - Set Up ZelNode | Alternate: zelnodes/zelnode_setupscript.md
+  - Set up ZelNode | Manually: zelnodes/zelnode_setupmanual.md
+  - ZelBench Commands: zelnodes/zelnode_benchcommands.md
+Flux OS:
+  - Flux Overview: flux/flux.md
+  - Roadmap: flux/flux_roadmap.md
+  - Flux API: flux/flux_api.md
+  - Governance: flux/flux_gov.md
+ZelID:
+  - ZelID Overview: zelid/zelid.md
+  - ZelID Modules:
+    - d2FA Security Layer: zelid/zelid_d2fa.md
+    - Easy Login: zelid/zelid_easylogin.md
+    - Message Signing: zelid/zelid_signing.md
+ZelLabs:
+  - ZelLabs Overview: zellabs/zellabs.md
+Zel Foundation:
+  - Zel Foundation Overview: foundation/zelfoundation.md
+```
 ---
 
-- [Build Instructions](https://www.mkdocs.org/#building-the-site)
+- [Build Instructions](https://squidfunk.github.io/mkdocs-material/getting-started/)

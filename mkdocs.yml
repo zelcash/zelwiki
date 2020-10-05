@@ -1,116 +1,129 @@
+# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
 site_name: Zel Ecosystem
+#site_url: ""
+site_author: Parker Honeyman
 dev_addr: 193.188.15.163:8888
-nav:
-    - 'Home':
-        - 'index.md'
-    - 'Zel':
-        - 'Zel Currency Overview': 'zel.md'
-        - 'Zel Team': 'zel_team.md'
-        - 'Zel Crypto Conference': 'zel_con1.md'
-        - 'Zel Exchanges': 'zel_exchanges.md'
-        - 'Roadmaps': 'zel_roadmaps.md'
-        - 'Social Media Links': 'zel_social.md'
-        - 'Installing Daemon': 'zel_daemoninstall.md'
-    - 'ZelCore':
-        - 'ZelCore Overview' : 'zelcore.md'
-        - 'ZelCore Supported Assets': 'zelcore_assets.md'
-        - 'ZelCore Features' : 'zelcore_features.md'
-        - 'ZelCore+' : 'zelcore_+.md'
-    - 'ZelNodes Network':
-        - 'Zel Computational Network Overview': 'zelnodes.md'
-        - 'Set Up ZelNode | RECOMMENDED': 'zelnode_setupfull.md'
-        - 'Set Up ZelNode | Alternate': 'zelnode_setupscript.md'
-        - 'Set up ZelNode | Manually': 'zelnode_setupmanual.md'
-    - 'Flux OSS':
-        - 'Flux Overview': 'flux.md'
-        - 'Development': 'flux_dev.md'
-        - 'Flux CLI Commands':
-            - 'FluxBench Commands': 'flux_benchcommands.md'
-    - 'ZelID':
-        - 'ZelID Overview': 'zelid.md'
-        - 'ZelID Modules':
-            - 'ZelID Account System': 'zelid_accounts.md'
-            - 'd2FA Security Layer': 'zelid_d2fa.md'
-            - 'Easy Login': 'zelid_easylogin.md'
-            - 'Message Signing': 'zelid_signing.md'
-    - 'ZelLabs':
-        - 'ZelLabs Overview': 'zellabs.md'
-        - 'ZelLabs Incubation':
-            - 'Index': 'zellabs_partners.md'
-            - 'CoinRequest': 'zellabs_coinrequest.md'
-            - 'Xrosp': 'zellabs_xrosp.md'
-            - 'Ravencoin Asset Layer': 'zellabs_rvn.md'
-            - 'NEO Network': 'zellabs_neo.md'
-            - 'ONT Network': 'zellabs_ont.md'
-    - 'Zel Foundation':
-        - 'Zel Foundation Overview': 'zelfoundation.md'
-        - 'Transparency Reports':
-            - 'FY2019 Q2 & Q3': 'zelfoundation_treport2019Q2Q3.md'
-            - 'FY2019 Q1': 'zelfoundation_treport2019Q1.md'
+repo_url: https://github.com/zelcash/zelwiki
+repo_name: Zel Wiki
+edit_uri: ""
+
 theme:
-    name: material
-    language: en
-    features:
-        -tabs
-        -instant
-    palette:
-        scheme: slate
-        primary: blue
-        accent: indigo
-    logo: /img/logo.svg
-    favicon: /img/Zel-favicon.png
-repo_name: Zelcash Github
-repo_url: https://github.com/zelcash/zelcash
-extra:
-    manifest: manifest.webmanifest
-#    disqus: forums
-google_analytics:
-    - UA-168637799-1
-    - auto
-extra:
-    social:
-        - icon: fontawesome/brands/github-alt
-          link: https://github.com/zelcash
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/zelcash
-        - icon: fontawesome/brands/twitter-square
-          link: https://twitter.com/ZelCore
-        - icon: fontawesome/brands/discord
-          link: https://discord.gg/7m3vzTr
-extra_css:
-    - stylesheets/extra.css
-#extra_javascripts:
-#    - javascripts/extra.js
-plugins:
-    - search
-    - minify:
-        minify_html: true
-#    - git-revision-date-localized:
-#        type: date
-#    - awesome-pages
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.instant
+  palette:
+    scheme: slate
+    primary: blue
+    accent: indigo
+  logo: img/Logos/logo.png
+  favicon: img/Logos/logo.png
+
 markdown_extensions:
-#    - fontawesome_markdown
-    - admonition
-    - codehilite:
-        guess_lang: false
-        linenums: true
-    - toc:
-        permalink: true
-    - pymdownx.arithmatex
-    - pymdownx.betterem:
-        smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences
-    - pymdownx.tasklist:
-        custom_checkbox: true
-    - pymdownx.tabbed
-    - pymdownx.tilde
+  - toc:
+      permalink: ⚓︎
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums_style: pymdownx.inline
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  
+google_analytics:
+  - UA-168637799-1
+  - auto
+
+extra:
+  manifest: manifest.webmanifest
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zelcash
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@ZelOfficial
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/zelcash
+    - icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/ZelCore
+    - icon: fontawesome/brands/discord
+      link: https://discord.io/zel
+    - icon: fontawesome/brands/telegram-plane
+      link: https://t.me/zelhub
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/ZelHub
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/ZelOfficial/
+
+nav:
+  - Home:
+      - index.md
+  - Zel:
+      - Zel Ecosystem Overview: zel/zel.md
+      - Zel Team: zel/zel_team.md
+      - Zel Crypto Conference: zel/zel_con1.md
+      - Zel Exchanges: zel/zel_exchanges.md
+      - Roadmap: zel/zel_roadmap.md
+      - Social Media Links: zel/zel_social.md
+      - Installing Daemon: zel/zel_daemoninstall.md
+  - ZelCore:
+      - ZelCore Overview : zelcore/zelcore.md
+      - ZelCore Supported Assets: zelcore/zelcore_assets.md
+      - ZelCore Features: zelcore/zelcore_features.md
+      - ZelCore+: zelcore/zelcore_+.md
+  - ZelNodes:
+      - Zel Computational Network Overview: zelnodes/zelnodes.md
+      - Set Up ZelNode | RECOMMENDED: zelnodes/zelnode_setupfull.md
+      - Set Up ZelNode | Alternate: zelnodes/zelnode_setupscript.md
+      - Set up ZelNode | Manually: zelnodes/zelnode_setupmanual.md
+      - ZelBench Commands: zelnodes/zelnode_benchcommands.md
+  - Flux OS:
+      - Flux Overview: flux/flux.md
+      - Roadmap: flux/flux_roadmap.md
+      - Flux API: flux/flux_api.md
+      - Governance: flux/flux_gov.md
+  - ZelID:
+      - ZelID Overview: zelid/zelid.md
+      - ZelID Modules:
+        - d2FA Security Layer: zelid/zelid_d2fa.md
+        - Easy Login: zelid/zelid_easylogin.md
+        - Message Signing: zelid/zelid_signing.md
+  - ZelLabs:
+      - ZelLabs Overview: zellabs/zellabs.md
+  - Zel Foundation:
+      - Zel Foundation Overview: foundation/zelfoundation.md
