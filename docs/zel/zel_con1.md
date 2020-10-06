@@ -6,8 +6,8 @@
 
 #### Agenda
 
-![zelslides](/img/Zelforum/Blockchain_forum_Agenda_Day1.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Agenda_Day2.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Agenda_Day1.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Agenda_Day2.png)
 
 #### Video Links
 
@@ -33,19 +33,19 @@
 
 #### Speaker Screens
 
-![zelslides](/img/Zelforum/Blockchain_forum_Break__sponsors.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Pirate.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Reuben_Zcoin.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Parker.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Round_table.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Dan.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Vosk.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Kadena_Emily.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Kucoin.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Veil.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Coinrequest.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Coinswitch.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Instaswap.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Speaker_Tim.png)
-![zelslides](/img/Zelforum/Blockchain_forum_N9.png)
-![zelslides](/img/Zelforum/Blockchain_forum_Veriblock.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Break__sponsors.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Pirate.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Reuben_Zcoin.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Parker.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Round_table.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Dan.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Vosk.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Kadena_Emily.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Kucoin.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Veil.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Coinrequest.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Coinswitch.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Instaswap.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Speaker_Tim.png)
+![zelslides](../img/Zelforum/Blockchain_forum_N9.png)
+![zelslides](../img/Zelforum/Blockchain_forum_Veriblock.png)

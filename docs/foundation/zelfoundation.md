@@ -6,7 +6,7 @@ funding, and the Zel Foundation fund was established to pursue technology advanc
 
 <br>
 
-![logotext](/img/Logos/Zel-Txt-White.png){:style="height:200px"}
+![logotext](../img/Logos/Zel-Txt-White.png){:style="height:200px"}
 
 ### Zel Foundation Operation
 
@@ -19,4 +19,4 @@ Zel Ecosystem, marketing/PR, anything that benefits the project and Community. U
 control the day-to-day operations of the Foundation, separate from the Zel core team, and responsible to the Zel Community.
 <br><br>
 
-![zelbanner](/img/Banners/ZelComposite_BlackBG.png)
+![zelbanner](../img/Banners/ZelComposite_BlackBG.png)
