@@ -1,4 +1,4 @@
-![zelteam](../img/Zel_Team/Parker.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Parker.jpg){: align=left width=250 }
 ## **Parker Honeyman**
 ##### Chief Operations Officer, Community Management & Business Development
 Parker is a mechanical engineer from the South Bay Area, CA and works
@@ -9,7 +9,7 @@ content development to researching hardware and new technologies.
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/parker-honeyman-51785342/)
 [:fontawesome-regular-envelope:](mailto:parker@zel.network)<br><br>
 
-![zelteam](../img/Zel_Team/Daniel.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Daniel.jpg){: align=left width=250 }
 ## **Daniel Keller**
 ##### Chief Operations Officer, Community Management & Business Development
 Daniel bring over 20 years IT experience in healthcare and nonprofit
@@ -21,7 +21,7 @@ business development but also charity initiatives at Zel Technologies.
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kellerdaniel/)
 [:fontawesome-regular-envelope:](mailto:daniel@zel.network)<br><br>
 
-![zelteam](../img/Zel_Team/Tadeas.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Tadeas.jpg){: align=left width=250 }
 ## **Tadeáš Kmenta(TheTrunk)**
 ##### Co-Founder and Developer
 Tadeáš has created most parts of ZelCore, Zelcore Mobile, its libraies,
@@ -31,7 +31,7 @@ live and that is a project on which you would find him developing the most.
 [:fontawesome-brands-github:](https://github.com/thetrunk)
 [:fontawesome-regular-envelope:](mailto:tadeas@zel.network)<br><br>
 
-![zelteam](../img/Zel_Team/Valter.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Valter.jpg){: align=left width=250 }
 ## **Valter Silva**
 ##### Developer
 Valter is a senior developer in JAVA and C# from Portugal. Interested
@@ -41,7 +41,7 @@ overhauled the outdates ZelMate and ZecMate wallets (swing.) He now
 focuses on various development projects within the team.
 [:fontawesome-brands-github:](https://github.com/Cabecinha84)<br><br>
 
-![zelteam](../img/Zel_Team/Jeremy.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Jeremy.jpg){: align=left width=250 }
 ## **Jeremy Anderson**
 ##### Developer
 Jeremy Anderson is an expert software engineer who has made contributions
@@ -49,14 +49,14 @@ to PIVX, Ravencoin, Veil and Zel. He focuses on ZelNodes and Zel source.
 ZelNodes is the first tiered deterministic node system thanks to Jeremy.
 [:fontawesome-brands-github:](https://github.com/blondfrogs)<br><br>
 
-![zelteam](../img/Zel_Team/David.jpg/){: align=left width=250 }
+![zelteam](../img/Zel_Team/David.jpg){: align=left width=250 }
 ## **David Robinson**
 ##### Marketing and Graphic Designer
 David discovered Zel in early 2018, becoming a community moderator
 later that year. He is now part of the Marketing team creating graphics
 for Social media marketing.<br><br>
 
-![zelteam](../img/Zel_Team/Lukas.png/){: align=left width=250 }
+![zelteam](../img/Zel_Team/Lukas.png){: align=left width=250 }
 ## **Lukas Mattecka**
 ##### Community Lead & Business Development
 Currently studying economic science in the university of Basel, Swizz.
