@@ -89,4 +89,4 @@ zelbench-cli getbenchmarks
 !!! warning
     It is OK if benchmarking is showing "hdd" instead of "ssd" for now. The "ddwrite" speeds telling the network that your drive(s) are SSDs
 
-![zelbanner](/img/Banners/ZelComposite_BlackBG.png)
+![zelbanner](../img/Banners/ZelComposite_BlackBG.png)

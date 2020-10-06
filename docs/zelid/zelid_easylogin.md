@@ -1,1 +1,1 @@
-![zelid](/img/Zel_id/Easy_Login.png)
+![zelid](../img/Zel_id/Easy_Login.png)

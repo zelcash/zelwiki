@@ -1,1 +1,1 @@
-![zelnodes](/img/Flux/flux_diagram.png)
+![zelnodes](../img/Flux/flux_diagram.png)

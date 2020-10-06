@@ -1,1 +1,1 @@
-![zelcore](/img/ZelCore/Zelcore_assets2.png)
+![zelcore](../img/ZelCore/Zelcore_assets2.png)
